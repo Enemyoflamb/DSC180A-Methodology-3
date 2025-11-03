@@ -1,3 +1,3 @@
 # DSC180A-Methodology-3
 
-Brendan Kuang and Edgar Guzman
+Brendan Kuang blkuang@ucsd.edu
